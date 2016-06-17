@@ -4,5 +4,9 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "will",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "q" : "*",
+        "synaptic" : "*",
+        "lodash" : "*"
+    }
 }
